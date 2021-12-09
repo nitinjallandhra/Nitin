@@ -7,6 +7,6 @@ public class Demo_Test {
 	public void CreateTest()
 	{
 		System.out.println("DemoPractice is Pass");
-		
+		System.out.println("2");
 	}
 }
