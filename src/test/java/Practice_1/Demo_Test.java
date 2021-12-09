@@ -8,5 +8,6 @@ public class Demo_Test {
 	{
 		System.out.println("DemoPractice is Pass");
 		System.out.println("2");
+		
 	}
 }
