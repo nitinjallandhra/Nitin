@@ -6,6 +6,6 @@ public class SmokeTest {
 	@Test
 	public void smokeTest()
 	{
-		System.out.println("Smoke Testing is done");
+		System.out.println("Smoke1 Testing is done");
 	}
 }
